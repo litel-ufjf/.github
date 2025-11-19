@@ -14,6 +14,10 @@ Atuamos principalmente nas seguintes áreas:
 * **Instrumentação Eletrônica:** Sistemas embarcados e aquisição de dados.
 * **Processamento de Sinais:** Algoritmos de análise de dados e Machine Learning aplicado.
 
+## Trabalhos
+
+Veja os [trabalhos](https://github.com/litel-ufjf/trabalhos) desenvolvidos pelos nossos pesquisadores.
+
 ## Tecnologias e Ferramentas
 
 * Python
