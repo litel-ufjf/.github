@@ -4,7 +4,7 @@
 
 ## Sobre
 
-O **LITel** é um laboratório de pesquisa dedicado ao desenvolvimento de tecnologias avançadas de instrumentação. Nossa equipe é formada por professores, pesquisadores e alunos (graduação e pós-graduação) focados em resolver problemas complexos da indústria e da academia.
+O **LITel** é um laboratório de pesquisa dedicado ao desenvolvimento de tecnologias avançadas de instrumentação. Nossa equipe é formada por professores, pesquisadores e alunos (graduação e pós-graduação) focados em resolver problemas complexos da indústria e da academia. Entre em contato conosco por [e-mail](mailto:litel@ufjf.br).
 
 ## Linhas de Pesquisa
 
