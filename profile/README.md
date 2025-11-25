@@ -4,15 +4,19 @@
 
 ## Sobre
 
-O **LITel** é um laboratório de pesquisa dedicado ao desenvolvimento de tecnologias avançadas de instrumentação. Nossa equipe é formada por professores, pesquisadores e alunos (graduação e pós-graduação) focados em resolver problemas complexos da indústria e da academia. Entre em contato conosco por [e-mail](mailto:litel@ufjf.br).
+O Laboratório de Instrumentação e Telemetria da Universidade Federal de Juiz de Fora (UFJF) foi constituído no ano de 2016 e está ligado ao Programa de Pós-Graduação em Engenharia Elétrica (PPEE).  Nossa equipe é formada por professores, pesquisadores e alunos (graduação e pós-graduação) focados em resolver problemas complexos da indústria e da academia. O laboratório serve como suporte para projetos de pesquisa acadêmica e projetos de Pesquisa Desenvolvimento e Inovação (PDI). Entre em contato conosco por [e-mail](mailto:litel@ufjf.br).
 
 ## Linhas de Pesquisa
 
 Atuamos principalmente nas seguintes áreas:
 
 * **Sensores a Fibra Óptica:** Desenvolvimento de sensores intrínsecos e sistemas de interrogação.
-* **Instrumentação Eletrônica:** Sistemas embarcados e aquisição de dados.
+* **Instrumentação:** Desenvolvimento de sensores e instrumentos ópticos, elétricos e optoeletrônicos;
+* **Análise de dados e modelagem estatística:** Projeto, desenvolvimento e validação de algoritmos de aprendizado de máquinas e inteligência artificial;
 * **Processamento de Sinais:** Algoritmos de análise de dados e Machine Learning aplicado.
+* **Ensaios técnicos:** Calibração e avaliação de sensores ópticos a fibra;
+* **PDI:** Desenvolvimento, validação e aplicação de protótipos.
+
 
 ## Trabalhos
 
